@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Trabalho-3-Augusto-Cesar-Freitas-e-Silva:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Trabalho-3-Augusto-Cesar-Freitas-e-Silva.war">
+      <element id="artifact" artifact-name="Trabalho-3-Augusto-Cesar-Freitas-e-Silva:war exploded" />
+    </root>
+  </artifact>
+</component>
